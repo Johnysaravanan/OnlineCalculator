@@ -1,4 +1,4 @@
-# This OnlineCalculator Has;
+This OnlineCalculator Has;
          <li>A beautiful animated gradient background</li>
        <li>Clear formula display showing the complete calculation</li>
         <li>Proper handling of the second number input</li>
