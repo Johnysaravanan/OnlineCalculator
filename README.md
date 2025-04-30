@@ -1,4 +1,5 @@
 # This OnlineCalculator Has;
+<li>
     <ul>
          <li>A beautiful animated gradient background</li>
        <li>Clear formula display showing the complete calculation</li>
@@ -6,4 +7,4 @@
       <li>Both standard and scientific calculator modes</li>
         <li>A modern, responsive design</li>
     </ul>
-
+</li>
